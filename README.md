@@ -14,4 +14,7 @@
       Normal Weight: 18.5 - 24.9
       Obese: >30
       Underweight: <18.5
+    <br>
+    Project Link:
+        <a href="https://pureddylavanya.github.io/BMI_Calculator/">Check Here</a>
 </pre>
