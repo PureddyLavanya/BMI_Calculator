@@ -23,7 +23,7 @@ body{
 @media (max-width:768px){
     .container{
         width:65%;
-        height:55%;
+        height:40%;
     }
 }
 .container h1{
