@@ -26,6 +26,12 @@ body{
         height:40%;
     }
 }
+@media (max-width:520px){
+   . container {
+        width:65%;
+        height:30%;
+      }
+}
 .container h1{
   background: purple;
   color: white;
